@@ -1,6 +1,6 @@
 # Maven Sample Project
 
-This is a simple Maven project that computes the length of an entered word.
+This is a simple Maven project.
 
 ## Directory Structure
 
